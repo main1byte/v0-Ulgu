@@ -805,7 +805,7 @@ export default function LandingPage() {
             <div className="flex items-start gap-4">
               <Clock className="h-6 w-6 text-primary mt-0.5" />
               <div>
-                <h3 className="font-medium">Режим работы</h3>
+                <h3 className="font-medium">Режим работы!</h3>
                 <p className="text-muted-foreground">Пн-Пт: 9:00 - 20:00</p>
                 <p className="text-muted-foreground">Сб-Вс: 10:00 - 18:00</p>
               </div>
